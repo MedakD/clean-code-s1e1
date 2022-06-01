@@ -47,6 +47,7 @@ editButton.className="edit";
 
 deleteButton.className="delete";
 deleteButtonImg.src='./remove.svg';
+deleteButtonImg.alt="delete";
 deleteButton.appendChild(deleteButtonImg);
 
 

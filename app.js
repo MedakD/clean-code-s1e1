@@ -32,6 +32,8 @@ var editButton=document.createElement("button");//edit button
 var deleteButton=document.createElement("button");//delete button
 var deleteButtonImg=document.createElement("img");//delete button image
 
+listItem.className="list-item";
+
 label.innerText=taskString;
 label.className='task';
 
